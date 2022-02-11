@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val simpleButton = findViewById<Button>(R.id.simple_button)
-        val colorButton = findViewById<Button>(R.id.color_button)
+        val colorButton = findViewById<Button>(R.id.simple_button)
         val textView = findViewById<TextView>(R.id.text_view)
 
         var simpleClicked = false
