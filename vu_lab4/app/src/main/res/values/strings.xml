@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Todo</string>
-    <string name="save">Save task</string>
-    <string name="enter_task_content">Enter Task Content</string>
-    <string name="enter_task_name">Enter Task Name</string>
-</resources>
